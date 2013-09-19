@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
     "lib/redis_mountable_bucket.rb",
     "redis_mountable_bucket.gemspec",
     "test/helper.rb",
-    "test/test_redis_mountable_bucket.rb"
+    "test/test_redis_bucket_gem.rb"
   ]
   s.homepage = "http://github.com/qburstruby/redis_mountable_bucket"
   s.licenses = ["MIT"]
