@@ -8,10 +8,10 @@
 === The master branch supports versions >= Rails 3
 
 Add the gem to the gemfile:
-  	gem "redis_mountable_bucket", :git => 'https://github.com/qburstruby/redis_bucket.git'
+  	gem "redis_mountable_bucket"
   	
 Mount the redis_bucket engine onto your rails app:
-  	rails g mount_engine engine
+  	rails g mount_redis_engine engine
 
 == Usage
 
