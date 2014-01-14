@@ -1,6 +1,6 @@
 = RedisMountableBucket
 
- RedisBucket is a gem that acts as an api engine which mounts automattically into the rails application on installation.
+ RedisMountableBucket is a gem that acts as an api engine which mounts automattically into the rails application on installation.
  This gem is used to access basic redis methods such as storing data as key-value pairs, fetching the specified key's value, deleting the specified key's value or getting all the keys from the redis.
 
 == Installation
